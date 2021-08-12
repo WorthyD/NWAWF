@@ -1,0 +1,13 @@
+.home-screen {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  div{
+    text-align: center;
+  }
+  &__info {
+    text-align: center;
+    max-width: 500px;
+  }
+}
